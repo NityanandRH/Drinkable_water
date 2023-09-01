@@ -1,0 +1,38 @@
+{
+  "build": "py38haa95532_0",
+  "build_number": 0,
+  "channel": "https://repo.anaconda.com/pkgs/main/win-64",
+  "constrains": [],
+  "depends": [
+    "py-xgboost 1.7.3 py38haa95532_0",
+    "python >=3.8,<3.9.0a0"
+  ],
+  "extracted_package_dir": "C:\\Users\\nitya\\anaconda3\\pkgs\\xgboost-1.7.3-py38haa95532_0",
+  "features": "",
+  "files": [
+    ".nonadmin"
+  ],
+  "fn": "xgboost-1.7.3-py38haa95532_0.conda",
+  "legacy_bz2_md5": "4cdfe6a62a9557cbded96eff6a63146f",
+  "license": "Apache-2.0",
+  "license_family": "Apache",
+  "link": {
+    "source": "C:\\Users\\nitya\\anaconda3\\pkgs\\xgboost-1.7.3-py38haa95532_0",
+    "type": 1
+  },
+  "md5": "553856d1441c1cf8320824b3dfdec0e8",
+  "name": "xgboost",
+  "package_tarball_full_path": "C:\\Users\\nitya\\anaconda3\\pkgs\\xgboost-1.7.3-py38haa95532_0.conda",
+  "paths_data": {
+    "paths": [],
+    "paths_version": 1
+  },
+  "requested_spec": "xgboost",
+  "sha256": "f4e5974f16d0e1f71b3b67bfa67900dcdd80a82c79ef78ae59eee5a30c12dd0d",
+  "size": 12463,
+  "subdir": "win-64",
+  "timestamp": 1675462012565,
+  "track_features": "",
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/xgboost-1.7.3-py38haa95532_0.conda",
+  "version": "1.7.3"
+}
